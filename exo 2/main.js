@@ -56,6 +56,7 @@ b3.currentPage = 25
 b3.read = false;
 
 b1.readBook(0)
-
+b2.readBook(50)
+b3.readBook(250)
 
 
